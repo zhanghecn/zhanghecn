@@ -18,8 +18,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanghecn&layout=compact)](https://github.com/zhanghecn/github-readme-stats)
 
-**Oh,我只是刚刚学习 android 逆向,您可以 加企鹅群:742345273 一起学习。**
-
-**您也可以到我的吾爱破解上看到我学习的过程:** [https://www.52pojie.cn/home.php?mod=space&uid=1991987](https://www.52pojie.cn/home.php?mod=space&uid=1991987)
-
-
+人生如梦 是醒是睡 ...
